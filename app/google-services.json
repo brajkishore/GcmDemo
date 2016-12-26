@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "878066408719",
+    "project_id": "gcmdemo-143204"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878066408719:android:314ac68e1faafa64",
+        "android_client_info": {
+          "package_name": "com.nroutes.gcmdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw9PUSrt2HKsA7wUahln1NzQyvWyzssPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
